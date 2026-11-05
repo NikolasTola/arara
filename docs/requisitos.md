@@ -33,7 +33,7 @@ O administrador da loja é o usuário cujo perfil tem permissão para gerenciar 
 | RF-05 | O administrador da loja altera o nome e o perfil dos usuários e os desativa; a desativação encerra as sessões abertas. | Importante |
 | RF-06 | O administrador da loja redefine a senha dos usuários que gerencia. | Importante |
 | RF-07 | O usuário não altera o próprio nome nem a própria senha; essas mudanças são feitas pelo administrador. | Essencial |
-| RF-08 | Exigir a troca de senha no primeiro acesso de contas criadas com senha provisória. *(em decisão — ver Pendências)* | Essencial |
+| RF-08 | Exigir a troca de senha no primeiro acesso de contas criadas com senha provisória. | Essencial |
 | RF-09 | Confirmar o e-mail do usuário por um link. | Desejável |
 
 ### Administração da plataforma
